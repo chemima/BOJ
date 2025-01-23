@@ -1,4 +1,4 @@
-# [Silver II] 헌내기는 친구가 필요해 - 21736 
+# [Silver II] 헌내기는 친구가 필요해 - 21736 //특이하게 pypy3가 python3보다 느리다
 
 [문제 링크](https://www.acmicpc.net/problem/21736) 
 
